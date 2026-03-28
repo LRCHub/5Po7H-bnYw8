@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "幻想のサテライト",
+  "base_artist": "豚乙女",
+  "createdAt": "2026-03-28T05:56:57.213469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻想のサテライト",
+      "artist": "豚乙女-BUTAOTOME-",
+      "has_synced": false,
+      "path": "select/01_幻想のサテライト_豚乙女-BUTAOTOME-.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幻想のサテライト",
+      "artist": "Butaotome",
+      "has_synced": true,
+      "path": "select/02_幻想のサテライト_Butaotome.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幻想のサテライト",
+      "artist": "豚乙女",
+      "has_synced": true,
+      "path": "select/03_幻想のサテライト_豚乙女.lrc"
+    }
+  ]
+}
